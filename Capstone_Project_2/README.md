@@ -12,6 +12,7 @@ the report and project presentation of this repository (in the "reports" directo
 
 -Background
 -Data Set
+
 -Data Preprocessing/Feature Engineering
 -Exploratory Data Analysis
 	-Plotting Example Sensor Data
