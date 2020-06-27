@@ -1,7 +1,9 @@
 Human Activity Recognition
 ==========================
 
-Uploaded by: Sofy Weisenberg        Date: 06/27/20
+Uploaded by: Sofy Weisenberg        
+
+Date: 06/27/20
 
 Introduction
 ------------
