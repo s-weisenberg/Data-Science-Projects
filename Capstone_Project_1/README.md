@@ -1,4 +1,4 @@
-#Cervical Cancer Predictive Modeling
+Cervical Cancer Predictive Modeling
 ===================================
 
 Uploaded by: Sofy Weisenberg
@@ -32,9 +32,9 @@ Github Project Organization
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
-	├── LICENSE
+    ├── LICENSE
     │  
-	└── README.md          <- The top-level README for developers using this project.
+    └── README.md          <- The top-level README for developers using this project.
 
 
 --------
