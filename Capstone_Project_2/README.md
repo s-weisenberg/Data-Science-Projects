@@ -12,35 +12,34 @@ the report and project presentation of this repository (in the "reports" directo
 
 * Background
 * Data Set
-
 * Data Preprocessing/Feature Engineering
 * Exploratory Data Analysis
 	* Plotting Example Sensor Data
 	* Visualizing Separability of Classes
 		* PCA
 		* tSNE
--Statistical Analysis
-	-Aggregating Data
-	-Selecting Features of Interest
-	-Visualizing Distributions of Aggregated Feature Statistics
-	-Bootstrap Hypothesis Testing
-		-Motivation
-		-Performing Hypothesis Tests
--Machine Learning Preprocessing
-	-Splitting the Data: Training and Test Sets
-	-Feature Scaling
-	-Categorical Class Encoding
--Fitting an SVM Model
-	-Hyperparameter Tuning
-	-Model Evaluation
-	-Visualizing Misclassified Activities
--Fitting a Neural Network Model
-	-Importing the Raw Data
-	-Preprocessing
-	-Fitting an RNN Model
-	-Fitting Additional RNN Models with Convolution
-	-Comparison to SVM
--Conclusions
+* Statistical Analysis
+	* Aggregating Data
+	* Selecting Features of Interest
+	* Visualizing Distributions of Aggregated Feature Statistics
+	* Bootstrap Hypothesis Testing
+		* Motivation
+		* Performing Hypothesis Tests
+* Machine Learning Preprocessing
+	* Splitting the Data: Training and Test Sets
+	* Feature Scaling
+	* Categorical Class Encoding
+* Fitting an SVM Model
+	* Hyperparameter Tuning
+	* Model Evaluation
+	* Visualizing Misclassified Activities
+* Fitting a Neural Network Model
+	* Importing the Raw Data
+	* Preprocessing
+	* Fitting an RNN Model
+	* Fitting Additional RNN Models with Convolution
+	* Comparison to SVM
+* Conclusions
 
 Github Project Organization
 ---------------------------
