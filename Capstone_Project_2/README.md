@@ -10,15 +10,15 @@ This capstone project was completed as part of the Springboard Data Science Care
 a publicly available dataset: Human Activity Recognition with Smartphones. The following topics are covered in
 the report and project presentation of this repository (in the "reports" directory):
 
--Background
--Data Set
+* Background
+* Data Set
 
--Data Preprocessing/Feature Engineering
--Exploratory Data Analysis
-	-Plotting Example Sensor Data
-	-Visualizing Separability of Classes
-		-PCA
-		-tSNE
+* Data Preprocessing/Feature Engineering
+* Exploratory Data Analysis
+	* Plotting Example Sensor Data
+	* Visualizing Separability of Classes
+		* PCA
+		* tSNE
 -Statistical Analysis
 	-Aggregating Data
 	-Selecting Features of Interest
