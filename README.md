@@ -1,4 +1,4 @@
-# Springboard Projects
+# Data Science (Springboard) Projects
 
 Uploaded by: Sofy Weisenberg
 November 2019 - July 2020
